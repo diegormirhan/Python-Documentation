@@ -38,6 +38,3 @@ print(p.__dict__)
 
 print(p.andar.__annotations__)
 print(p.__init__.__annotations__)
-
-
-
